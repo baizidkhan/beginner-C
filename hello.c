@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main(){
-    int a =34;
-    int b =78;
-    result =a+b ;
+    int c =34;
+    int b =109;
+    result =a+c ;
     printf("%d","resul=" +result);
 
     return 0;
